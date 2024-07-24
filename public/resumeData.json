@@ -1,45 +1,44 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": " Awe Jacob",
+    "occupation": "C.E.O of  Throne-Sec Solutions",
+    "description": "Software Develoer, Cybersecurity & Artificial Intelligence/Machine Learning Enthusiast,",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Awe Jacob! I am a Full Stack Developer, AI/ML and Cybersecurity Enthusiast. I train individuals and teams in Software Engineering and Cybersecurity. I also build cutting-edge web and mobile applications for individuals and organizations. I am a lifelong learner and love to explore new tools and technologies",
+    "contactmessage": "Get in touch with me!",
+    "email": "awejacob2@gmail.com",
+    "phone": "+233 558487942",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "23 South Okobu Blk E3",
+      "city": "Accra",
+      "state": "Greater - Accra"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/jh.awe.7/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/awe-jacob-0736aaab/a",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/awejacob",
         "className": "fa fa-github"
       }
     ]
@@ -56,31 +55,31 @@
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Throne-Sec Solutions",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "August 2020 - Present",
+        "description": "Software Development, Laptop and Computer Repairs, AI/ML Training and Cybersecurity Training."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Web Development",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Cybersecurity",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "AI/ML",
+        "level": "80%"
       },
       {
-        "name": "JavaScript",
+        "name": "Network Engineering",
         "level": "99%"
       },
       {
-        "name": "Web Development",
+        "name": "Hardware Engineering",
         "level": "95%"
       }
     ]
@@ -110,12 +109,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "I have had the pleasure of working with Awe Jacob, and his expertise has been truly beneficial. His guidance and support have made a significant difference for us. I highly recommend him for his knowledge and dedication",
+        "user": "Joy Agbey"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Awe Jacob is a fantastic experience. His diverse skills make learning from him incredibly enriching. He simplifies complex things and makes them approachable. I always gain new insights from our interactions, making every session valuable.",
+        "user": "Rafik Abubakar"
       }
     ]
   }
