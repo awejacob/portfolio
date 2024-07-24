@@ -64,7 +64,7 @@ function Contact() {
                     Technical support
                   </p>
                   <p className="text-[1.3rem] text-neutral-500">
-                    awejacob2@gmail.com
+                    skinblakes@gmail.com
                   </p>
                   
                 </div>
